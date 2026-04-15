@@ -1,0 +1,1345 @@
+# depslib dependency file v1.0
+1513537541 source:d:\c_project\n1ann1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1512838927 source:d:\c_project\n1ann1\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1512817785 d:\c_project\n1ann1\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1513536818 source:d:\c_project\n1ann1\src\trainset.cpp
+	"trainSet.h"
+
+1513454773 d:\c_project\n1ann1\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+
+1513545614 source:d:\c_project\n1ann1\src\layer.cpp
+	"layer.h"
+
+1513328419 d:\c_project\n1ann1\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1513537541 source:d:\c_project\n1ann3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1512817785 d:\c_project\n1ann3\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1513454773 d:\c_project\n1ann3\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+
+1513584161 d:\c_project\n1ann3\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1512838927 source:d:\c_project\n1ann3\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1513536818 source:d:\c_project\n1ann3\src\trainset.cpp
+	"trainSet.h"
+
+1513585098 source:d:\c_project\n1ann3\src\layer.cpp
+	"layer.h"
+
+1512838927 source:d:\c_project\n1ann4\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1512817785 d:\c_project\n1ann4\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1514191614 source:d:\c_project\n1ann4\src\trainset.cpp
+	"trainSet.h"
+
+1513851931 d:\c_project\n1ann4\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1514211778 source:d:\c_project\n1ann4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1513597465 d:\c_project\n1ann4\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1514211480 source:d:\c_project\n1ann4\src\layer.cpp
+	"layer.h"
+
+1514545610 source:d:\c_project\n1ann5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1512817785 d:\c_project\n1ann5\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1514545706 d:\c_project\n1ann5\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1513597465 d:\c_project\n1ann5\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1514544139 source:d:\c_project\n1ann5\src\layer.cpp
+	"layer.h"
+
+1512838927 source:d:\c_project\n1ann5\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1514545706 source:d:\c_project\n1ann5\src\trainset.cpp
+	"trainSet.h"
+
+1514925718 source:d:\c_project\n1ann6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1512817785 d:\c_project\n1ann6\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1514545706 d:\c_project\n1ann6\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1513597465 d:\c_project\n1ann6\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1514922961 source:d:\c_project\n1ann6\src\layer.cpp
+	"layer.h"
+
+1512838927 source:d:\c_project\n1ann6\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1514925906 source:d:\c_project\n1ann6\src\trainset.cpp
+	"trainSet.h"
+
+1514925718 source:d:\c_project\n1ann7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1515013266 d:\c_project\n1ann7\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1514545706 d:\c_project\n1ann7\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1513597465 d:\c_project\n1ann7\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1514928033 source:d:\c_project\n1ann7\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1514926927 source:d:\c_project\n1ann7\src\layer.cpp
+	"layer.h"
+
+1514928220 source:d:\c_project\n1ann7\src\trainset.cpp
+	"trainSet.h"
+
+1515096032 source:d:\c_project\n1ann8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1515013266 d:\c_project\n1ann8\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1514545706 d:\c_project\n1ann8\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1513597465 d:\c_project\n1ann8\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1514926927 source:d:\c_project\n1ann8\src\layer.cpp
+	"layer.h"
+
+1514928033 source:d:\c_project\n1ann8\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1515248695 source:d:\c_project\n1ann8\src\trainset.cpp
+	"trainSet.h"
+
+1518258017 source:d:\c_project\n1ann9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1518171022 d:\c_project\n1ann9\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1515701650 d:\c_project\n1ann9\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1515616244 d:\c_project\n1ann9\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1518258017 source:d:\c_project\n1ann9\src\layer.cpp
+	"layer.h"
+
+1518171105 source:d:\c_project\n1ann9\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1515836781 source:d:\c_project\n1ann9\src\trainset.cpp
+	"trainSet.h"
+
+1518861628 source:d:\c_project\n1ann11\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1518384182 d:\c_project\n1ann11\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1518857147 d:\c_project\n1ann11\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1518436686 d:\c_project\n1ann11\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1518384137 source:d:\c_project\n1ann11\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1518858399 source:d:\c_project\n1ann11\src\trainset.cpp
+	"trainSet.h"
+
+1518862489 source:d:\c_project\n1ann11\src\layer.cpp
+	"layer.h"
+
+1532173627 source:d:\c_project\n1ann12\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+
+1518384182 d:\c_project\n1ann12\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1519474081 d:\c_project\n1ann12\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1532173772 d:\c_project\n1ann12\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+
+1532173772 source:d:\c_project\n1ann12\src\layer.cpp
+	"layer.h"
+
+1518384137 source:d:\c_project\n1ann12\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1520328701 source:d:\c_project\n1ann12\src\trainset.cpp
+	"trainSet.h"
+
+1534271689 source:d:\c_project\n1ann14\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1518384182 d:\c_project\n1ann14\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1532336918 d:\c_project\n1ann14\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1533330062 d:\c_project\n1ann14\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1533321609 source:d:\c_project\n1ann14\src\layer.cpp
+	"layer.h"
+
+1518384137 source:d:\c_project\n1ann14\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1532341092 source:d:\c_project\n1ann14\src\trainset.cpp
+	"trainSet.h"
+
+1533330376 source:d:\c_project\n1ann14\src\trainer.cpp
+	"trainer.h"
+
+1533330376 d:\c_project\n1ann14\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1533241340 source:d:\c_project\n1ann14\src\net.cpp
+	"net.h"
+
+1532720552 d:\c_project\n1ann14\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1534277310 source:d:\c_project\n1ann16\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1518384182 d:\c_project\n1ann16\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1532336918 d:\c_project\n1ann16\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1534281188 d:\c_project\n1ann16\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1534281188 d:\c_project\n1ann16\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1532720552 d:\c_project\n1ann16\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1534329246 source:d:\c_project\n1ann16\src\layer.cpp
+	"layer.h"
+
+1518384137 source:d:\c_project\n1ann16\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1533241340 source:d:\c_project\n1ann16\src\net.cpp
+	"net.h"
+
+1532341092 source:d:\c_project\n1ann16\src\trainset.cpp
+	"trainSet.h"
+
+1534330494 source:d:\c_project\n1ann16\src\trainer.cpp
+	"trainer.h"
+
+1534410326 source:d:\c_project\n1ann17\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1518384182 d:\c_project\n1ann17\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1532336918 d:\c_project\n1ann17\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1534418267 d:\c_project\n1ann17\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1534409661 d:\c_project\n1ann17\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1532720552 d:\c_project\n1ann17\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1518384137 source:d:\c_project\n1ann17\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1533241340 source:d:\c_project\n1ann17\src\net.cpp
+	"net.h"
+
+1534530423 source:d:\c_project\n1ann17\src\trainer.cpp
+	"trainer.h"
+
+1532341092 source:d:\c_project\n1ann17\src\trainset.cpp
+	"trainSet.h"
+
+1534418267 source:d:\c_project\n1ann17\src\layer.cpp
+	"layer.h"
+
+1535104733 source:d:\c_project\n1ann18\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1518384182 d:\c_project\n1ann18\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1535105368 d:\c_project\n1ann18\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1535105368 d:\c_project\n1ann18\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1535105368 d:\c_project\n1ann18\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1532720552 d:\c_project\n1ann18\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1535105489 source:d:\c_project\n1ann18\src\layer.cpp
+	"layer.h"
+
+1535109574 source:d:\c_project\n1ann18\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1533241340 source:d:\c_project\n1ann18\src\net.cpp
+	"net.h"
+
+1535105501 source:d:\c_project\n1ann18\src\trainer.cpp
+	"trainer.h"
+
+1534968245 source:d:\c_project\n1ann18\src\trainset.cpp
+	"trainSet.h"
+
+1536404099 source:d:\c_project\n1ann19\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1535273138 d:\c_project\n1ann19\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1535105368 d:\c_project\n1ann19\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1535534584 d:\c_project\n1ann19\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1536226224 d:\c_project\n1ann19\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1532720552 d:\c_project\n1ann19\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1535273153 source:d:\c_project\n1ann19\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1533241340 source:d:\c_project\n1ann19\src\net.cpp
+	"net.h"
+
+1536399018 source:d:\c_project\n1ann19\src\trainer.cpp
+	"trainer.h"
+
+1535230544 source:d:\c_project\n1ann19\src\trainset.cpp
+	"trainSet.h"
+
+1535541907 source:d:\c_project\n1ann19\src\layer.cpp
+	"layer.h"
+
+1538215322 source:d:\c_project\n1ann20\src\layer.cpp
+	"layer.h"
+
+1537564130 d:\c_project\n1ann20\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1535273138 d:\c_project\n1ann20\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1537044783 d:\c_project\n1ann20\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1538038906 d:\c_project\n1ann20\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1537561247 d:\c_project\n1ann20\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1535273153 source:d:\c_project\n1ann20\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1537561748 source:d:\c_project\n1ann20\src\net.cpp
+	"net.h"
+
+1538215303 source:d:\c_project\n1ann20\src\trainer.cpp
+	"trainer.h"
+
+1537276976 source:d:\c_project\n1ann20\src\trainset.cpp
+	"trainSet.h"
+
+1537609844 source:d:\c_project\n1ann20\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1539598261 source:d:\c_project\n1ann21\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1535273138 d:\c_project\n1ann21\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1539342314 d:\c_project\n1ann21\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1538854697 d:\c_project\n1ann21\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1538916292 d:\c_project\n1ann21\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1537561247 d:\c_project\n1ann21\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1538215322 source:d:\c_project\n1ann21\src\layer.cpp
+	"layer.h"
+
+1535273153 source:d:\c_project\n1ann21\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1538733852 source:d:\c_project\n1ann21\src\net.cpp
+	"net.h"
+
+1539428795 source:d:\c_project\n1ann21\src\trainer.cpp
+	"trainer.h"
+
+1539343250 source:d:\c_project\n1ann21\src\trainset.cpp
+	"trainSet.h"
+
+1648204432 source:d:\c_project\ann projects 2018-2019\6-using classes no batch\src\layer.cpp
+	"layer.h"
+
+1648192582 d:\c_project\ann projects 2018-2019\6-using classes no batch\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1535273138 d:\c_project\ann projects 2018-2019\6-using classes no batch\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1648194105 d:\c_project\ann projects 2018-2019\6-using classes no batch\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+
+1647592071 d:\c_project\ann projects 2018-2019\6-using classes no batch\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1648194378 d:\c_project\ann projects 2018-2019\6-using classes no batch\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1535273153 source:d:\c_project\ann projects 2018-2019\6-using classes no batch\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1648194378 source:d:\c_project\ann projects 2018-2019\6-using classes no batch\src\net.cpp
+	"net.h"
+
+1648194073 source:d:\c_project\ann projects 2018-2019\6-using classes no batch\src\trainer.cpp
+	"trainer.h"
+
+1648194105 source:d:\c_project\ann projects 2018-2019\6-using classes no batch\src\trainset.cpp
+	"trainSet.h"
+
+1648202993 source:d:\c_project\ann projects 2018-2019\6-using classes no batch\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1765627463 source:f:\4th_year\gp\new folder\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1535269538 f:\4th_year\gp\new folder\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1764440787 f:\4th_year\gp\new folder\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+	<iostream>
+	<string>
+
+1765617590 f:\4th_year\gp\new folder\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1765614106 f:\4th_year\gp\new folder\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1648194378 f:\4th_year\gp\new folder\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1765627276 source:f:\4th_year\gp\new folder\src\layer.cpp
+	"layer.h"
+
+1535269553 source:f:\4th_year\gp\new folder\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1648194378 source:f:\4th_year\gp\new folder\src\net.cpp
+	"net.h"
+
+1765618826 source:f:\4th_year\gp\new folder\src\trainer.cpp
+	"trainer.h"
+
+1764440877 source:f:\4th_year\gp\new folder\src\trainset.cpp
+	"trainSet.h"
+
+1769635145 source:f:\4th_year\gp\bypattern\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"layer.h"
+	"net.h"
+	"trainer.h"
+
+1535269538 f:\4th_year\gp\bypattern\include\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1769542071 f:\4th_year\gp\bypattern\include\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1769376417 f:\4th_year\gp\bypattern\include\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1768068435 f:\4th_year\gp\bypattern\include\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1648194378 f:\4th_year\gp\bypattern\include\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+
+1769632314 source:f:\4th_year\gp\bypattern\src\layer.cpp
+	"layer.h"
+
+1535269553 source:f:\4th_year\gp\bypattern\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1648194378 source:f:\4th_year\gp\bypattern\src\net.cpp
+	"net.h"
+
+1769632314 source:f:\4th_year\gp\bypattern\src\trainer.cpp
+	"trainer.h"
+
+1769635049 source:f:\4th_year\gp\bypattern\src\trainset.cpp
+	"trainSet.h"
+
+1535269538 f:\4th_year\gp\bypattern\matrix.h
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+
+1769542071 f:\4th_year\gp\bypattern\trainset.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	<fstream>
+	<iostream>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1769376417 f:\4th_year\gp\bypattern\layer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"trainSet.h"
+	"trainer.h"
+
+1768068435 f:\4th_year\gp\bypattern\trainer.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+
+1648194378 f:\4th_year\gp\bypattern\net.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	"matrix.h"
+	"layer.h"
+	"trainSet.h"
+

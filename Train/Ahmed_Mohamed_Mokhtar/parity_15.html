@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Parity 15 Generator</title>
+<style>
+  body { font-family: sans-serif; padding: 50px; text-align: center; }
+  button { padding: 20px 40px; font-size: 20px; cursor: pointer; background-color: #007bff; color: white; border: none; border-radius: 5px; }
+  button:hover { background-color: #0056b3; }
+</style>
+</head>
+<body>
+
+<h2>15-bit Parity Dataset Generator</h2>
+<p>Click the button below to download the full training set (32,768 patterns).</p>
+<button onclick="generateAndDownload()">Download parity15.txt</button>
+
+<script>
+function generateAndDownload() {
+    const N_BITS = 7;
+    const TOTAL_PATTERNS = Math.pow(2, N_BITS); // 32768
+    
+    let patterns = [];
+
+    // 1. Generate all sequences (Binary Counter 0 to 32767)
+    for (let i = 0; i < TOTAL_PATTERNS; i++) {
+        let inputs = [];
+        let onesCount = 0;
+        
+        // Convert number 'i' to binary bits
+        for (let b = 0; b < N_BITS; b++) {
+            // Check if bit 'b' is set
+            let bit = (i >> b) & 1;
+            
+            // Map 0 -> -1, 1 -> 1
+            let val = bit === 1 ? 1 : -1;
+            
+            inputs.push(val);
+            if (val === 1) onesCount++;
+        }
+        
+        // Reverse to align with standard binary representation (optional but good for consistency)
+        inputs.reverse();
+
+        // Calculate Target: Odd 1s -> 1, Even 1s -> -1
+        let target = (onesCount % 2 !== 0) ? 1 : -1;
+        
+        patterns.push({ inputs: inputs, target: target });
+    }
+
+    // 2. Shuffle the patterns (Randomize)
+    for (let i = patterns.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [patterns[i], patterns[j]] = [patterns[j], patterns[i]];
+    }
+
+    // 3. Build the String Content
+    let content = `${TOTAL_PATTERNS} ${N_BITS} 1\n\n`;
+    
+    // Add Inputs section
+    content += `# x patterns (${TOTAL_PATTERNS} rows, ${N_BITS} inputs each)\n`;
+    for (let p of patterns) {
+        content += p.inputs.join(" ") + "\n";
+    }
+    
+    content += "\n";
+    
+    // Add Targets section
+    content += `# y targets (${N_BITS}-input Parity: -1=even, 1=odd)\n`;
+    for (let p of patterns) {
+        content += p.target + "\n";
+    }
+
+    // 4. Trigger Download
+    const blob = new Blob([content], { type: 'text/plain' });
+    const url = window.URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'parity15.txt';
+    document.body.appendChild(a);
+    a.click();
+    window.URL.revokeObjectURL(url);
+    document.body.removeChild(a);
+}
+</script>
+
+</body>
+</html>

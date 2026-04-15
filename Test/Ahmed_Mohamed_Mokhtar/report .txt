@@ -1,0 +1,6 @@
+(20) tray to make batch smaller than traing set
+did not fully work  batch has to start at 0
+
+try to solve this
+
+

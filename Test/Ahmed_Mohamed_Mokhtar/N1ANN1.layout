@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="src\net.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="813" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="src\layer.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1529" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="include\net.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="716" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="include\matrix.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1008" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="src\trainer.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4117" topLine="197" />
+		</Cursor>
+	</File>
+	<File name="src\trainSet.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="698" zoom_1="1" zoom_2="2">
+		<Cursor>
+			<Cursor1 position="7257" topLine="237" />
+		</Cursor>
+	</File>
+	<File name="include\trainSet.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="698" zoom_1="1" zoom_2="4">
+		<Cursor>
+			<Cursor1 position="1070" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="src\matrix.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4681" topLine="145" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="876" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="include\trainer.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1386" topLine="22" />
+		</Cursor>
+	</File>
+	<File name="include\layer.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="835" topLine="8" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
